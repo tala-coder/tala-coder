@@ -3,7 +3,13 @@
 <img src="https://profile-counter.glitch.me/tala-coder/count.svg">
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Muhammed!;Hey!+It's+Muhammed!;)](https://git.io/typing-svg)
-<p> I am a final year student of Information Technology in Sarajevo at the <a href="https://pmf.unsa.ba"> Faculty of Science.<a/> </p>
+<p> I am a final year student of Information Technology in Sarajevo at the <a href="https://pmf.unsa.ba"> Faculty of Science.<a/> </p> 
+
+## Current projects:
+- <a href="https://github.com/tala-coder/MOP-praksa"> Backend internship, Ministry of Programming<a/>
+- <a href="https://github.com/tala-coder/wordle"> Wordle game with socket.io<a/>
+- <a href="https://github.com/tala-coder/e-biblioteka"> E-biblioteka (Završni projekat)<a/>
+
 <p> Find out more about me & feel free to connect with me here:</p>
   
  
