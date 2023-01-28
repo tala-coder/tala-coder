@@ -2,10 +2,12 @@
 
 <img src="https://profile-counter.glitch.me/tala-coder/count.svg">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Muhammed!;Hey!+It's+Muhammed!;)](https://git.io/typing-svg)
-<p> I am a final year student of Information Technology in Sarajevo at the <a href="https://pmf.unsa.ba"> Faculty of Science.<a/> </p> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Muhammed!;I'm+Full-stack+developer;)](https://git.io/typing-svg)
+<p> As a skilled software developer with a passion for innovation and scalability. With 2+ years of experience in the web development industry, I have honed my abilities in programming, communication, and teamwork. I am a highly adaptable and open-minded individual, who is always eager to take on new challenges and learn new technologies.
 
-## Current projects:
+My expertise is in the JS ecosystem, specifically in building full-stack applications. I am currently working with React Native. I am continuously expanding my skillset by working with the latest technologies and staying up-to-date with industry trends </p> 
+
+## College projects:
 - <a href="https://github.com/tala-coder/MOP-praksa"> Backend internship, Ministry of Programming<a/>
 - <a href="https://github.com/tala-coder/wordle"> Wordle game with socket.io<a/>
 - <a href="https://github.com/tala-coder/e-biblioteka"> E-biblioteka (Završni projekat)<a/>
@@ -22,7 +24,9 @@
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React-native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=Nest.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=Django&style=for-the-badge&logoColor=white)
