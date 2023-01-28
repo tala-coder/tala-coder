@@ -1,11 +1,18 @@
 ### Hi there 👋
 
 <img src="https://profile-counter.glitch.me/tala-coder/count.svg">
+
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Muhammed!;I'm+Full-stack+developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Muhammed!;I'm+Full-stack+developer.;Let's+connect+and+build+a+better+future+together!;)](https://git.io/typing-svg)
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&duration=5000&pause=200&color=27F744width=800&lines=Hey!+It's+Muhammed!;I'm+Full-stack+developer.;Let's+connect+and+build+a+better+future+together!)](https://git.io/typing-svg)
+
 <p> As a skilled software developer with a passion for innovation and scalability. With 2+ years of experience in the web development industry, I have honed my abilities in programming, communication, and teamwork. I am a highly adaptable and open-minded individual, who is always eager to take on new challenges and learn new technologies.
 
 My expertise is in the JS ecosystem, specifically in building full-stack applications. I am currently working with React Native. I am continuously expanding my skillset by working with the latest technologies and staying up-to-date with industry trends </p> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=7000&pause=1000&color=27F744&background=672EFF00&width=485&lines=Let's+connect+and+build+a+better+future+together!)](https://git.io/typing-svg)
 
 ## College projects:
 - <a href="https://github.com/tala-coder/MOP-praksa"> Backend internship, Ministry of Programming<a/>
