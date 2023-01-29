@@ -5,20 +5,25 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Muhammed!;I'm+Full-stack+developer.;Let's+connect+and+build+a+better+future+together!;)](https://git.io/typing-svg)
 
-##  About me
+## 👨 About me
 
 <p> As a skilled software developer with a passion for innovation and scalability. With 2+ years of experience in the web development industry, I have honed my abilities in programming, communication, and teamwork. I am a highly adaptable and open-minded individual, who is always eager to take on new challenges and learn new technologies.
 
 My expertise is in the JS ecosystem, specifically in building full-stack applications. I am currently working with React Native. I am continuously expanding my skillset by working with the latest technologies and staying up-to-date with industry trends </p> 
 
 
-## College projects:
+
+## 📱💻 College projects
+
 - <a href="https://github.com/tala-coder/MOP-praksa"> Backend internship, Ministry of Programming<a/>
 - <a href="https://github.com/tala-coder/wordle"> Wordle game with socket.io<a/>
-- <a href="https://github.com/tala-coder/e-biblioteka"> E-biblioteka (Završni projekat)<a/>
-
+- <a href="https://github.com/tala-coder/e-biblioteka"> E-library (Final project at the university)<a/>
+- <a href="https://github.com/tala-coder/e-shop"> E-shop (MERN)<a/>
+ 
+ 
+ 
+## 📬 Social media
 <p> Find out more about me & feel free to connect with me here:</p>
-  
  
 [![Linkedin Badge](https://img.shields.io/badge/muhammedtalic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/anirudhemmadi/](https://www.linkedin.com/in/muhammed-talić-a29666201/))](https://www.linkedin.com/in/muhammed-talić-a29666201/)
 [![Gmail Badge](https://img.shields.io/badge/-muhammedtalic.it@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muhammedtalic.it@gmail.com)](mailto:kanna6501@gmail.com)
