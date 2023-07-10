@@ -5,6 +5,7 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Muhammed!;I'm+Full-stack+developer.;Let's+connect+and+build+a+better+future+together!;)](https://git.io/typing-svg)
 
+
 ## 👨 About me
 
 <p> As a skilled software developer with a passion for innovation and scalability. With 2+ years of experience in the web development industry, I have honed my abilities in programming, communication, and teamwork. I am a highly adaptable and open-minded individual, who is always eager to take on new challenges and learn new technologies.
@@ -12,6 +13,7 @@
 My expertise is in the JS ecosystem, specifically in building full-stack applications. I am currently working with React Native. I am continuously expanding my skillset by working with the latest technologies and staying up-to-date with industry trends </p> 
 
 
+ <a href="https://app.daily.dev/talic19"><img src="https://api.daily.dev/devcards/b3a546ed419f46e1a6dae21f3811bce7.png?r=zle" width="400" alt="Muhammed Talić's Dev Card"/></a>
 
 ## 📱💻 College projects
 
@@ -31,6 +33,7 @@ My expertise is in the JS ecosystem, specifically in building full-stack applica
 [![Youtube Badge](https://img.shields.io/badge/-muhammedtalic-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCnfUpx7xW2tBuKU_PYXblnA)](https://www.youtube.com/channel/UCnfUpx7xW2tBuKU_PYXblnA)
 <br>
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=7000&pause=1000&color=27F744&background=672EFF00&width=595&lines=Let's+connect+and+build+a+better+future+together!)](https://git.io/typing-svg)
+
 
 ## ⚡ Technologies
 
