@@ -1,5 +1,5 @@
 ### Hi there 👋
-Welcome to my profile! 🎉 This is a visitor counter:
+Welcome to my profile! 🎉 This is a visitor counter. (Refresh the page to see it in action! 😄)
 
 <img src="https://profile-counter.glitch.me/tala-coder/count.svg">
 
