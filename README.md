@@ -63,3 +63,6 @@ My expertise is in the JS ecosystem, specifically in building full-stack applica
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Nx](https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white)
+
+
+![snake gif](https://github.com/tala-coder/tala-coder/blob/output/github-contribution-grid-snake.gif)
