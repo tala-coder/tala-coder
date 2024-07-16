@@ -14,6 +14,14 @@ Welcome to my profile! 🎉 This is a visitor counter. (Refresh the page to see 
 My expertise is in the JS ecosystem, specifically in building full-stack applications. I am currently working with React Native. I am continuously expanding my skillset by working with the latest technologies and staying up-to-date with industry trends </p> 
 
 
+<p align="center">
+  <a href="https://paypal.me/TalaCoder">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="width: 200px;">
+  </a>
+</p>
+
+ 
+
  <a href="https://app.daily.dev/talic19"><img src="https://api.daily.dev/devcards/b3a546ed419f46e1a6dae21f3811bce7.png?r=zle" width="400" alt="Muhammed Talić's Dev Card"/></a>
 
 ## 📱💻 College projects
@@ -71,3 +79,15 @@ My expertise is in the JS ecosystem, specifically in building full-stack applica
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=tala-coder&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![Snake animation](https://raw.githubusercontent.com/tala-coder/tala-coder/output/github-contribution-grid-snake-dark.svg)
+
+
+### ☕ Buy Me a Coffee
+
+If you enjoy my work and want to support my coding journey, consider buying me a coffee! Your support helps me continue to create and innovate. Thank you for your generosity!
+
+
+<p align="center">
+  <a href="https://paypal.me/TalaCoder">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="width: 200px;">
+  </a>
+</p>
