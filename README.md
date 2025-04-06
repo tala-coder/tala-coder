@@ -1,93 +1,91 @@
-### Hi there 👋
+# Hi there 👋
+
 Welcome to my profile! 🎉 This is a visitor counter. (Refresh the page to see it in action! 😄)
 
-<img src="https://profile-counter.glitch.me/tala-coder/count.svg">
+<img src="https://profile-counter.glitch.me/tala-coder/count.svg" alt="Visitor Counter">
 
- 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Muhammed!;I'm+Full-stack+developer.;Let's+connect+and+build+a+better+future+together!;)](https://git.io/typing-svg)
 
+## 👨 About Me
 
-## 👨 About me
+I'm a skilled software developer with a passion for innovation and scalability. With 3+ years of experience in the web development industry, I have honed my abilities in programming, communication, and teamwork. I am a highly adaptable and open-minded individual, who is always eager to take on new challenges and learn new technologies.
 
-<p> As a skilled software developer with a passion for innovation and scalability. With 2+ years of experience in the web development industry, I have honed my abilities in programming, communication, and teamwork. I am a highly adaptable and open-minded individual, who is always eager to take on new challenges and learn new technologies.
+Currently, I'm working at [Pickleball.com](https://pickleball.com), the leading platform for one of the fastest-growing sports in the world. Pickleball blends elements of tennis, badminton, and table tennis into a dynamic and accessible game, and I'm proud to be part of the team that's helping to grow this exciting sport through technology.
 
-My expertise is in the JS ecosystem, specifically in building full-stack applications. I am currently working with React Native. I am continuously expanding my skillset by working with the latest technologies and staying up-to-date with industry trends </p> 
+My expertise is in the JS ecosystem, specifically in building full-stack applications. I am currently working with React Native. I am continuously expanding my skillset by working with the latest technologies and staying up-to-date with industry trends.
 
+## 🚀 Technologies & Tools
 
-<p align="center">
-  <a href="https://paypal.me/TalaCoder">
-    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="width: 200px;">
-  </a>
-</p>
+### Frontend Development
 
- 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 
- <a href="https://app.daily.dev/talic19"><img src="https://api.daily.dev/devcards/b3a546ed419f46e1a6dae21f3811bce7.png?r=zle" width="400" alt="Muhammed Talić's Dev Card"/></a>
+### Backend Development
 
-## 📱💻 College projects
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-- <a href="https://github.com/tala-coder/MOP-praksa"> Backend internship, Ministry of Programming<a/>
-- <a href="https://github.com/tala-coder/wordle"> Wordle game with socket.io<a/>
-- <a href="https://github.com/tala-coder/e-biblioteka"> E-library (Final project at the university)<a/>
-- <a href="https://github.com/tala-coder/e-shop"> E-shop (MERN)<a/>
- 
- 
- 
-## 📬 Social media
-<p> Find out more about me & feel free to connect with me here:</p>
- 
-[![Linkedin Badge](https://img.shields.io/badge/muhammedtalic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/anirudhemmadi/](https://www.linkedin.com/in/muhammed-talić-a29666201/))](https://www.linkedin.com/in/muhammed-talić-a29666201/)
-[![Gmail Badge](https://img.shields.io/badge/-muhammedtalic.it@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muhammedtalic.it@gmail.com)](mailto:kanna6501@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-mr.talic-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/mr.talic/)](https://www.instagram.com/mr.talic/)
-[![Youtube Badge](https://img.shields.io/badge/-muhammedtalic-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCnfUpx7xW2tBuKU_PYXblnA)](https://www.youtube.com/channel/UCnfUpx7xW2tBuKU_PYXblnA)
-<br>
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=7000&pause=1000&color=27F744&background=672EFF00&width=595&lines=Let's+connect+and+build+a+better+future+together!)](https://git.io/typing-svg)
+### Databases
 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## ⚡ Technologies
+### Tools & Platforms
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=Django&style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Nx](https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
- 
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-  
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Nx](https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white)
+## 📱💻 Projects
 
+### 🎓 University Projects
 
+- [Backend Internship](https://github.com/tala-coder/MOP-praksa) - Ministry of Programming internship project
+- [Wordle Game](https://github.com/tala-coder/wordle) - Multiplayer game built with Socket.io
+- [E-library](https://github.com/tala-coder/e-biblioteka) - Final university project
+- [E-shop](https://github.com/tala-coder/e-shop) - MERN stack e-commerce application
 
- 
+### 💼 Professional Projects
+
+- [TS Group](https://tsgroup.ba) - Independently designed and developed a modern construction company landing page. Complete project ownership including UI/UX design, frontend development, deployment, and hosting configuration. Built with Next.js and modern web technologies.
+
+## 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-talić-a29666201/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammedtalic.it@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr.talic/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCnfUpx7xW2tBuKU_PYXblnA)
+
+## 🏆 GitHub Stats
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=tala-coder&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![Snake animation](https://raw.githubusercontent.com/tala-coder/tala-coder/output/github-contribution-grid-snake-dark.svg)
 
-
-### ☕ Buy Me a Coffee
+## ☕ Support Me
 
 If you enjoy my work and want to support my coding journey, consider buying me a coffee! Your support helps me continue to create and innovate. Thank you for your generosity!
 
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://paypal.me/TalaCoder)
 
-<p align="center">
-  <a href="https://paypal.me/TalaCoder">
-    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="width: 200px;">
-  </a>
-</p>
+---
+
+<a href="https://app.daily.dev/talic19"><img src="https://api.daily.dev/devcards/b3a546ed419f46e1a6dae21f3811bce7.png?r=zle" width="400" alt="Muhammed Talić's Dev Card"/></a>
