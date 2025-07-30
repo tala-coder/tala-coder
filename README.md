@@ -2,7 +2,9 @@
 
 Welcome to my profile! 🎉 This is a visitor counter. (Refresh the page to see it in action! 😄)
 
-<img src="https://profile-counter.glitch.me/tala-coder/count.svg" alt="Visitor Counter">
+<img src="https://hits.sh/github.com/tala-coder.svg?style=flat-square&label=visits&extraCount=18000" alt="Visitor Counter">
+
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Muhammed!;I'm+Full-stack+developer.;Let's+connect+and+build+a+better+future+together!;)](https://git.io/typing-svg)
 
