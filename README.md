@@ -11,7 +11,7 @@ https://www.muhammedtalic.dev/
 
 ## 👨 About Me
 
-I'm a skilled software developer with a passion for innovation and scalability. With 3+ years of experience in the web development industry, I have honed my abilities in programming, communication, and teamwork. I am a highly adaptable and open-minded individual, who is always eager to take on new challenges and learn new technologies.
+I'm a skilled software developer with a passion for innovation and scalability. With 5+ years of experience in the web development industry, I have honed my abilities in programming, communication, and teamwork. I am a highly adaptable and open-minded individual, who is always eager to take on new challenges and learn new technologies.
 
 Currently, I'm working at [Pickleball.com](https://pickleball.com), the leading platform for one of the fastest-growing sports in the world. Pickleball blends elements of tennis, badminton, and table tennis into a dynamic and accessible game, and I'm proud to be part of the team that's helping to grow this exciting sport through technology.
 
